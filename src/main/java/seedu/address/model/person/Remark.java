@@ -9,9 +9,14 @@ import static java.util.Objects.requireNonNull;
 public class Remark {
     public final String value;
 
-    public Remark(String address) {
-        requireNonNull(address);
-        value = address;
+    /**
+     * Constructs a {@code Remark}.
+     *
+     * @param remark A remark.
+     */
+    public Remark(String remark) {
+        requireNonNull(remark);
+        value = remark;
     }
 
     @Override
