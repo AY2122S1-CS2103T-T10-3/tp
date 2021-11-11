@@ -427,7 +427,7 @@ If your changes to the data file makes its format invalid, NetworkUS will discar
 
 **Q**: How do I transfer my data to another Computer?<br>
 **A**: Install the app in the other computer and overwrite the empty data file it creates with the file that contains the data of your previous ContactBook home folder.
-**Q**: Why is my contact list empty ?<br>
+**Q**: Why is my alias preference empty / not updating ?<br>
 **A**: Try to move the NetworkUS app in a new empty folder and run the jar file again.
 **Q**: How do I form a group using the app ?<br>
 **A**: You can group them together under the same tag by using the tag function and specifying multiple indexes.
